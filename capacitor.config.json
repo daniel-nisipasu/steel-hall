@@ -1,0 +1,19 @@
+{
+  "appId": "com.exemplu.steelhall",
+  "appName": "Steel Hall Designer",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#ffffff",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#2563eb",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": true,
+      "spinnerStyle": "small",
+      "splashFullScreen": true,
+      "splashImmersive": true
+    }
+  }
+}
